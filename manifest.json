@@ -1,0 +1,21 @@
+{
+  "name": "H3:Amber Looper",
+  "short_name": "H3",
+  "description": "Fractal Generative Instrument & Observer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050300",
+  "theme_color": "#ff9d00",
+  "icons": [
+    {
+      "src": "OG82.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "OG82.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
